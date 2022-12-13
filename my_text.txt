@@ -2,3 +2,5 @@ this is my second try to make change in file. my name is suraj
 
 checking whether it is in both staging and modified
 again modified
+
+wanted to see change in file
